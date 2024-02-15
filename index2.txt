@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 esto es una nueva prueba de subida como es mis muchachos vamos a hacerlo
 
 estos son los logros
+=======
+esto es una nueva prueba de subida//
+// esta seria la version 5
+>>>>>>> 352d5c9356dda51fd8dbbd7920f9fbf9341a6cab
